@@ -16,8 +16,9 @@ Body :
 }
 ```
 
-Expected answer:
-Response : 200 OK
+Expected answer :
+
+Response : `200 OK`
 Body :
 ```JSON
 {
