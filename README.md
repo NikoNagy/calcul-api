@@ -9,14 +9,14 @@ Just run it locally on IIS Express or on a IIS Site.
 ## Usage
 Only `GET` get that do sums for now :
 
-Body :
+**Body** :
 ```JSON
 {
 "expression" : "1+2+3+4+12+34"
 }
 ```
 
-Expected answer :
+**Expected answer** :
 
 Response : `200 OK`
 Body :
