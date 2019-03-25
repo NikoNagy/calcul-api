@@ -1,13 +1,13 @@
 # CalculApi
 
 ## Description
-Little .NetApi wich do some calculs (Only additions at the time, more to come)
+Little .Net API wich do some calculs (Only sums at the time, more to come)
 
 ## Installation
 Just run it locally on IIS Express or on a IIS Site.
 
 ##Usage
-Only `GET` get that do addition for now :
+Only `GET` get that do sums for now :
 
 Body :
 ```JSON
