@@ -6,7 +6,7 @@ Little .Net API wich do some calculs (Only sums at the time, more to come)
 ## Installation
 Just run it locally on IIS Express or on a IIS Site.
 
-##Usage
+## Usage
 Only `GET` get that do sums for now :
 
 Body :
